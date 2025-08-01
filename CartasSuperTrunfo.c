@@ -16,13 +16,13 @@ int main(){
     printf("carta1\n");
 
     printf("digite seu código:\n");
-    scanf("%s",&codigo1);
+    scanf("%s",codigo1);
 
     printf("digite seu Estado:\n");
-    scanf("%s",&estado1);
+    scanf("%s",estado1);
 
     printf("digite sua Cidade:\n");
-    scanf("%s",&cidade1);
+    scanf("%s",cidade1);
 
     printf("digite sua População:\n");
     scanf("%d",&populacao1);
