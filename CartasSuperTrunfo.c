@@ -2,7 +2,7 @@
 
 int main(){
     
-    char inicial1 = 'A',
+    char inicial1 = 'A';
     
     char cartao_1[10] = "A";
     char codigo1[40] = "01";
